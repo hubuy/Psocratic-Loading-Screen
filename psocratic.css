@@ -10,9 +10,9 @@ body {
 svg {
   position: relative;
   z-index: 10;
-  height: 55px;
-  -webkit-animation: bounce .5s cubic-bezier(0.51, 0.23, 0.02, 0.96) infinite;
-          animation: bounce .5s cubic-bezier(0.51, 0.23, 0.02, 0.96) infinite;
+  height: 57px;
+  -webkit-animation: bounce .5s cubic-bezier(0.96, 0.23, 0.02, 0.96) infinite;
+          animation: bounce .5s cubic-bezier(0.96, 0.23, 0.02, 0.96) infinite;
 }
 .ajaxLoad:after {
   position: absolute;
